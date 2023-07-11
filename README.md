@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shikhar
-- 👀 I’m interested in working as a data engineer
+- 👀 I’m interested in working as a data engineer/ data scientist
 - 📫 How to reach me DROP A MAIL TO jhashikhar1996@gmail.com
 
 <!---
